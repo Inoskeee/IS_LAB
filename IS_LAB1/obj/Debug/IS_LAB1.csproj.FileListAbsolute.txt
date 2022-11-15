@@ -1,0 +1,24 @@
+C:\Users\Nikita\Downloads\IS_LAB1\IS_LAB1\bin\Debug\IS_LAB1.exe.config
+C:\Users\Nikita\Downloads\IS_LAB1\IS_LAB1\bin\Debug\IS_LAB1.exe
+C:\Users\Nikita\Downloads\IS_LAB1\IS_LAB1\bin\Debug\IS_LAB1.pdb
+C:\Users\Nikita\Downloads\IS_LAB1\IS_LAB1\obj\Debug\IS_LAB1.csproj.AssemblyReference.cache
+C:\Users\Nikita\Downloads\IS_LAB1\IS_LAB1\obj\Debug\IS_LAB1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\Downloads\IS_LAB1\IS_LAB1\obj\Debug\IS_LAB1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Downloads\IS_LAB1\IS_LAB1\obj\Debug\IS_LAB1.exe
+C:\Users\Nikita\Downloads\IS_LAB1\IS_LAB1\obj\Debug\IS_LAB1.pdb
+D:\HSE\Интеллектуальные системы\IS_LAB1\IS_LAB1\bin\Debug\IS_LAB1.exe.config
+D:\HSE\Интеллектуальные системы\IS_LAB1\IS_LAB1\bin\Debug\IS_LAB1.exe
+D:\HSE\Интеллектуальные системы\IS_LAB1\IS_LAB1\bin\Debug\IS_LAB1.pdb
+D:\HSE\Интеллектуальные системы\IS_LAB1\IS_LAB1\obj\Debug\IS_LAB1.csproj.AssemblyReference.cache
+D:\HSE\Интеллектуальные системы\IS_LAB1\IS_LAB1\obj\Debug\IS_LAB1.csproj.SuggestedBindingRedirects.cache
+D:\HSE\Интеллектуальные системы\IS_LAB1\IS_LAB1\obj\Debug\IS_LAB1.csproj.CoreCompileInputs.cache
+D:\HSE\Интеллектуальные системы\IS_LAB1\IS_LAB1\obj\Debug\IS_LAB1.exe
+D:\HSE\Интеллектуальные системы\IS_LAB1\IS_LAB1\obj\Debug\IS_LAB1.pdb
+E:\HSE\IntellectualSystems\IS_LAB1\IS_LAB1\bin\Debug\IS_LAB1.exe.config
+E:\HSE\IntellectualSystems\IS_LAB1\IS_LAB1\bin\Debug\IS_LAB1.exe
+E:\HSE\IntellectualSystems\IS_LAB1\IS_LAB1\bin\Debug\IS_LAB1.pdb
+E:\HSE\IntellectualSystems\IS_LAB1\IS_LAB1\obj\Debug\IS_LAB1.csproj.AssemblyReference.cache
+E:\HSE\IntellectualSystems\IS_LAB1\IS_LAB1\obj\Debug\IS_LAB1.csproj.SuggestedBindingRedirects.cache
+E:\HSE\IntellectualSystems\IS_LAB1\IS_LAB1\obj\Debug\IS_LAB1.csproj.CoreCompileInputs.cache
+E:\HSE\IntellectualSystems\IS_LAB1\IS_LAB1\obj\Debug\IS_LAB1.exe
+E:\HSE\IntellectualSystems\IS_LAB1\IS_LAB1\obj\Debug\IS_LAB1.pdb
